@@ -1,0 +1,120 @@
+body,
+h1,
+h2,
+h3,
+h4,
+.menun,
+header {
+    margin: 0;
+}
+
+.fotoheader {
+    position: absolute;
+    width: 365px;
+    height: 265px;
+}
+
+p {
+    border-color: aqua;
+    border-radius: 20px;
+    font-family: 'Koulen', cursive;
+    padding-top: 20px;
+    color: black;
+}
+
+h3 {
+    border-color: rgb(253, 253, 253);
+    font-family: 'Tapestry', cursive;
+    color: rgb(18, 4, 80);
+}
+
+h2 {
+    color: rgb(18, 4, 80);
+    text-align: center;
+}
+
+body {
+    background-image: url(../pics/humo4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.varios-c {
+    display: flex center;
+    left: 15px;
+    text-align: center;
+}
+
+.contacto {
+    float: right;
+}
+
+.fotosc {
+    padding-left: 20px;
+}
+
+.netlixc {
+    float: left;
+}
+
+nav ul li {
+    list-style: none;
+    margin-left: 75px;
+    float: left;
+    padding: 24px 0;
+}
+
+.menun ul li {
+    border: 0px;
+    color: rgb(240, 3, 74);
+    display: inline-block;
+    list-style: none;
+    font-size: 1.2rem;
+    padding-left: 6px;
+    margin-left: 40px;
+}
+
+.ventam {
+    padding-left: 25px;
+}
+
+#ofertasp {
+    text-align: justify;
+    color: rgb(240, 3, 74);
+}
+
+.humo2 {
+    border-radius: 5px;
+    color: azure;
+}
+
+.ponerh {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-position: 10%;
+    background-repeat: no-repeat;
+    position: relative;
+    right: -20px;
+}
+
+.estaes {
+    width: 60%;
+    margin: auto;
+    margin-top: 120px;
+}
+
+.nombrep {
+    font-size: 50px;
+    margin: 80px 20px 50px 0px;
+    font-family: 'Tapestry', cursive;
+    color: rgb(240, 3, 74);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 20px;
+    font-variant-caps: unset;
+    float: left;
+}
+
+.textc {
+    float: right;
+}
